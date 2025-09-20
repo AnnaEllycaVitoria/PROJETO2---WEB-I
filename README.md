@@ -14,3 +14,5 @@ Praticar o uso de imagens em HTML, organizando um portfólio visual com descriç
 - Uso da tag `<figure>` para exibição de imagens.  
 - Uso de `<figcaption>` para legendas.  
 - Imagens organizadas com `<img>`.  
+
+- [Para acessar o site](https://annaellycavitoria.github.io/PROJETO2---WEB-I/)
